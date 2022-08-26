@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/06-rutas-React/static/css/main.09b9b46c.css",
+    "main.js": "/06-rutas-React/static/js/main.1bd3f343.js",
+    "static/media/logo.svg": "/06-rutas-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/06-rutas-React/index.html",
+    "main.09b9b46c.css.map": "/06-rutas-React/static/css/main.09b9b46c.css.map",
+    "main.1bd3f343.js.map": "/06-rutas-React/static/js/main.1bd3f343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b9b46c.css",
+    "static/js/main.1bd3f343.js"
+  ]
+}
